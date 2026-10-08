@@ -1,14 +1,18 @@
 # Sistema Âncora
 
-<!-- 1. O sistema âncora é um software voltado a auxiliar escolas com o monitoramento e intervenção em casos de evasão escolar, o problema usará um modelo de Machine Learning pra aprender e auxiliar nessa identificação e antecipação. -->
+O Sistema Âncora é um software que ajuda escolas a monitorar e a intervir em casos de evasão escolar. Um modelo de Machine Learning analisa a frequência dos alunos, identifica padrões de ausência que indicam risco de evasão e avisa a direção e a assistência social com antecedência.
 
 ## O problema
 
-<!-- 2. A evasão escolar é um problema persistente que afeta principalmente estudantes em situação de vulnerabilidade social. O acompanhamento atual é manual e reativo, dificultando intervenções preventivas eficazes. Isso pode levar cada vez mais alunos a se distanciarem até evadir. -->
+A evasão escolar é um problema persistente, que afeta principalmente estudantes em situação de vulnerabilidade social.
+
+Hoje, o acompanhamento costuma ser manual e reativo: a escola percebe o problema quando o aluno já faltou por semanas, e a intervenção chega tarde. Sem uma ação preventiva, o aluno vai se distanciando até abandonar a escola.
 
 ## Objetivo
 
-<!-- 3. Com o Sistema Âncora agora, será possível acompanhar em tempo real possíveis padrões de comportamento que podem levar a evasão escolar, fazendo com que a direção e a assistência social consigam intervir muito mais rápido em tentar recuperar o aluno dessa situação e reverter esse quadro. -->
+O Sistema Âncora acompanha a frequência dos alunos de forma contínua e automatizada e identifica padrões de ausência que podem levar à evasão. Com o alerta antecipado, a direção e a assistência social conseguem intervir antes que o quadro se torne irreversível e ter mais chance de manter o aluno na escola.
+
+O sistema apenas alerta. A decisão e a ação continuam sendo das pessoas da escola.
 
 ## Como contribuir
 
